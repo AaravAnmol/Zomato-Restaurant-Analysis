@@ -59,7 +59,7 @@ This analysis uncovers patterns in restaurant operations, customer behavior, and
    git clone https://github.com/AaravAnmol/Zomato-Restaurant-Analysis.git
    cd Zomato-Restaurant-Analysis
 
-##📁 Project Structure
+## 📁 Project Structure
 Zomato-Restaurant-Analysis/
 │
 ├── db.ipynb               # MySQL connection using .env
