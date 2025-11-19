@@ -64,7 +64,7 @@ Zomato-Restaurant-Analysis/
 
 - db.ipynb — Establishes MySQL connection using credentials stored in .env
 - main.ipynb — Performs data analysis and visualizations on restaurant data
-- zomato_schema.sql — Contains SQL commands to create and populate the database
+- Zomato_schema.sql — Contains SQL commands to create and populate the database
 - .env — Stores environment variables securely (excluded from GitHub)
 - README.md — Documents the project, setup instructions, and analysis overview
 
