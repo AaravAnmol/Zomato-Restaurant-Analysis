@@ -62,11 +62,11 @@ This analysis uncovers patterns in restaurant operations, customer behavior, and
 ## 📁 Project Structure
 Zomato-Restaurant-Analysis/
 │
-├── db.ipynb               # MySQL connection using .env
-├── main.ipynb             # Data analysis and visualizations
-├── Zomato_schema.sql      # SQL file to create and populate the database
-├── .env                   # Environment variables (excluded from GitHub)
-└── README.md              # Project documentation
+├── db.ipynb              : MySQL connection using .env
+├── main.ipynb            : Data analysis and visualizations
+├── zomato_schema.sql     : SQL file to create and populate the database
+├── .env                  : Environment variables (excluded from GitHub)
+└── README.md             : Project documentation
 
 ## 🗄 SQL File
 
